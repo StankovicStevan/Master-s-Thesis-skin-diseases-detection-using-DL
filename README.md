@@ -1,1 +1,1 @@
-# Master-s-Thesis-skin-diseases-detection-using-DL
+# Master's thesis - Skin Diseases Detection using Deep Learning
